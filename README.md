@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kev! 👋
+
+I'm a developer focused on building Full Stack solutions. I love creating robust systems and learning new technologies by getting my hands dirty.
+
+## 🚀 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+## 📊 My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 <!--
 **osmakevinn/osmakevinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
