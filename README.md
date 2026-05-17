@@ -28,7 +28,7 @@ Right now, I'm a student, so I have a solid foundation in **Java**, but I'm eage
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## 📊 My Stats
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=osmakevinn&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=osmakevinn&show_icons=true&theme=nightowl)
 
 <!--
 **osmakevinn/osmakevinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
