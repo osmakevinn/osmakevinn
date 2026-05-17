@@ -9,7 +9,6 @@ I'm a developer focused on building Full Stack solutions. I love creating robust
 
 ## 📊 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmakevinn&show_icons=true&theme=radical)
-
 <!--
 **osmakevinn/osmakevinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
