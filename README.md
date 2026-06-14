@@ -8,8 +8,6 @@
   <p style="margin: 5px 0 15px 0; padding: 0; color: #8B949E;">
     by OsmaKev
   </p>
-  
-  <img src="https://img.shields.io/badge/Status-Active-A3D94F?style=flat-square">
 </div>
 ---
 
