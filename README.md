@@ -1,17 +1,15 @@
 <div align="center">
+  <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="130" style="display: block; margin-bottom: 10px;">
+  
+  <h1 style="margin: 0; padding: 0; border-bottom: none; font-size: 2rem;">
+    <span style="color:#A3D94F;">❮</span> HadesDev <span style="color:#A3D94F;">❯</span>
+  </h1>
 
-<img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="150">
-
-<h1 align="center">
-  <span style="color:#A3D94F;">❮</span> HadesDev <span style="color:#A3D94F;">❯</span>
-</h1>
-
-<p align="center">
-  by OsmaKev
-</p>
-
-<img src="https://img.shields.io/badge/Status-Active-A3D94F?style=flat-square">
-
+  <p style="margin: 5px 0 15px 0; padding: 0; color: #8B949E;">
+    by OsmaKev
+  </p>
+  
+  <img src="https://img.shields.io/badge/Status-Active-A3D94F?style=flat-square">
 </div>
 ---
 
