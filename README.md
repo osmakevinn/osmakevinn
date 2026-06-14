@@ -1,18 +1,24 @@
-<div align="center">
-  <div style="display: inline-flex; align-items: center; text-align: left; gap: 20px;">
-    <!-- Logo de Hades -->
-    <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" alt="HadesDev Logo" width="100" height="100" style="object-fit: contain;">
-    <!-- Textos de la Firma -->
-    <div>
-      <h1 style="border-bottom: none; margin: 0; padding: 0; font-size: 2.2rem; font-weight: 800; color: #FFFFFF;">
-        <span style="color: #A3D94F;">&lt;</span>HadesDev<span style="color: #A3D94F;">&gt;</span>
-      </h1>
-      <p style="margin: 5px 0 0 0; padding: 0; color: #8B949E; font-size: 1rem; letter-spacing: 1px;">
-        by OsmaKev
-      </p>
-    </div>
-  </div>
-</div>
+<p align="center">
+  <table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <!-- Columna para el Logo de Hades sin fondos raros -->
+      <td valign="middle" style="border: none; padding: 0;">
+        <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" alt="HadesDev Logo" width="100" height="100">
+      </td>
+      <!-- Espacio invisible de separación -->
+      <td width="20" style="border: none; padding: 0;"></td>
+      <!-- Columna para el Texto de la Marca -->
+      <td valign="middle" align="left" style="border: none; padding: 0;">
+        <h1 style="border-bottom: none; margin: 0; padding: 0; font-size: 32px;">
+          <font color="#A3D94F">&lt;</font>HadesDev<font color="#A3D94F">&gt;</font>
+        </h1>
+        <p style="margin: 5px 0 0 0; padding: 0; color: #8B949E;">
+          by OsmaKev
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <p align="center" style="margin-top: 15px;">
   <img src="https://img.shields.io/badge/Status-Active-%23A3D94F?style=flat-square" alt="Status">
