@@ -10,7 +10,7 @@
 My ultimate goal is to scale *HadesDev* from a personal project into a massive, multi-disciplinary tech company capable of dominating every area of software development. He might not be here to see it grow, but every line of code I write, every system I architect, and every project I deploy carries the sharp, independent, and resilient spirit of my greatest inspiration.
 
 ### 👋 About Me
-I am a young university student driven by big ambitions. My immediate path is focused on learning from the best to eventually work for major tech companies, while simultaneously building my own enterprise: **HadesDev**. 
+I'm Kev, a young university student driven by big ambitions. My immediate path is focused on learning from the best to eventually work for major tech companies, while simultaneously building my own enterprise: **HadesDev**. 
 
 While I am still exploring the vast world of software to choose my exact specialization, I have a massive interest in **Game Development**. However, I don't limit myself; I am training to lead an organization that creates high-impact solutions across all fields of programming.
 
