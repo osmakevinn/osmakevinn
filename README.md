@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="100">
+<img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="150">
 
 <h1 align="center">
   <span style="color:#A3D94F;">❮</span> HadesDev <span style="color:#A3D94F;">❯</span>
