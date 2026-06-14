@@ -1,32 +1,37 @@
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Columna del Logo -->
-    <td valign="top" width="100">
-      <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" alt="HadesDev Logo" width="85" height="85">
-    </td>
-    <!-- Columna del Texto de la Firma -->
-    <td valign="middle">
-      <h1><code>&lt;HadesDev&gt;</code></h1>
-      <p><sub>by OsmaKev</sub></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" alt="HadesDev Logo" width="120">
+</p>
 
-# Hi, I'm Kev! 👋
+<h1 align="center"><code>&lt;HadesDev&gt;</code></h1>
+<p align="center"><em>by OsmaKev</em></p>
 
-I'm a software developer in training. I'm really excited about the idea of becoming a **Full Stack Developer** and I have a huge interest in **Game Development**. 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-%23A3D94F?style=flat-square" alt="Status">
+</p>
 
-Right now, I'm a student, so I have a solid foundation in **Java**, but I'm eager to expand my horizon.
+---
+
+### 🐈 The Story & Vision Behind the Brand
+**HadesDev** is more than just a brand name to me; it is a lifetime tribute to my cat, **Hades**. Although he is no longer in this world, he was my quiet companion during my first steps into technology. Today, his memory is the driving force behind my work, and through code, his legacy will live on.
+
+My ultimate goal is to scale *HadesDev* from a personal project into a massive, multi-disciplinary tech company capable of dominating every area of software development. He might not be here to see it grow, but every line of code I write, every system I architect, and every project I deploy carries the sharp, independent, and resilient spirit of my greatest inspiration.
+
+### 👋 About Me
+I am a young university student driven by big ambitions. My immediate path is focused on learning from the best to eventually work for major tech companies, while simultaneously building my own enterprise: **HadesDev**. 
+
+While I am still exploring the vast world of software to choose my exact specialization, I have a massive interest in **Game Development**. However, I don't limit myself; I am training to lead an organization that creates high-impact solutions across all fields of programming.
+
+---
 
 ## 🚀 My Learning Roadmap
 
-### ☕ What I know so far
-* **Java:** My current university language. I'm building my logic and OOP foundations here.
+### ☕ What I Know So Far
+* **Java:** My core university language. This is where I am shaping my logic and structural programming foundations.
 
-### 📚 Languages I want to learn
-* **Web Development:** HTML, CSS, JavaScript
-* **Backend & Logic:** Python
-* **Game Development:** Unity (C#) & C++
+### 📚 Future Milestones
+* **Web Development:** HTML, CSS, and JavaScript—the essential tools to bring the HadesDev ecosystem to the web.
+* **Backend & Automation:** Python.
+* **Game Development:** Unity (C#) & C++ to start bringing interactive experiences to life.
 
 ---
 
@@ -43,18 +48,3 @@ Right now, I'm a student, so I have a solid foundation in **Java**, but I'm eage
 
 ## 📊 My Stats
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=osmakevinn&show_icons=true&theme=nightowl)
-
-<!--
-**osmakevinn/osmakevinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
