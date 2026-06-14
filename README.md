@@ -1,17 +1,15 @@
 <p align="center">
   <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" alt="HadesDev Logo" width="120">
 </p>
-
 <h1 align="center"><code>&lt;HadesDev&gt;</code></h1>
 <p align="center"><em>by OsmaKev</em></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-%23A3D94F?style=flat-square" alt="Status">
 </p>
 
 ---
 
-### 🐈 The Story & Vision Behind the Brand
+### 🐈‍⬛ The Story & Vision Behind the Brand
 **HadesDev** is more than just a brand name to me; it is a lifetime tribute to my cat, **Hades**. Although he is no longer in this world, he was my quiet companion during my first steps into technology. Today, his memory is the driving force behind my work, and through code, his legacy will live on.
 
 My ultimate goal is to scale *HadesDev* from a personal project into a massive, multi-disciplinary tech company capable of dominating every area of software development. He might not be here to see it grow, but every line of code I write, every system I architect, and every project I deploy carries the sharp, independent, and resilient spirit of my greatest inspiration.
