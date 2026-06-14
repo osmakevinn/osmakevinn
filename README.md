@@ -1,21 +1,19 @@
-<p align="center">
-  <table border="0" cellpadding="0" cellspacing="0" align="center" style="border: none !important; border-collapse: collapse !important; background: transparent !important;">
-    <tr style="border: none !important; background: transparent !important;">
-      <td valign="middle" style="border: none !important; background: transparent !important; padding: 0;">
-        <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="95" height="95" style="display: block; border: none;">
-      </td>
-      <td width="20" style="border: none !important; background: transparent !important; padding: 0;"></td>
-      <td valign="middle" align="left" style="border: none !important; background: transparent !important; padding: 0;">
-        <h1 style="border: none !important; margin: 0; padding: 0; font-size: 2.3rem; line-height: 1; color: #FFFFFF;">
-          <font color="#A3D94F">❮</font>HadesDev<font color="#A3D94F">❯</font>
-        </h1>
-        <p style="margin: 6px 0 0 0; padding: 0; color: #8B949E; font-size: 1.05rem;">
-          by OsmaKev
-        </p>
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+  <!-- El contenedor principal centra todo el bloque -->
+  <div style="text-align: left; max-width: max-content;">
+        <span style="vertical-align: middle; display: inline-block; margin-right: 15px;">
+      <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="95" height="95" style="border: none;">
+    </span>
+    <span style="vertical-align: middle; display: inline-block;">
+      <h1 style="border-bottom: none; margin: 0; padding: 0; font-size: 2.3rem; line-height: 1.1; color: #FFFFFF;">
+        <font color="#A3D94F">❮</font>HadesDev<font color="#A3D94F">❯</font>
+      </h1>
+      <p style="margin: 4px 0 0 0; padding: 0; color: #8B949E; font-size: 1.05rem;">
+        by OsmaKev
+      </p>
+    </span>
+  </div>
+</div>
 
 ### 🐈‍⬛ The Story & Vision Behind the Brand
 **HadesDev** is more than just a brand name to me; it is a lifetime tribute to my cat, **Hades**. Although he is no longer in this world, he was my quiet companion during my first steps into technology. Today, his memory is the driving force behind my work, and through code, his legacy will live on.
