@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="130" style="display: block; margin-bottom: 10px;">
-  
-  <h1 style="margin: 0; padding: 0; border-bottom: none; font-size: 2rem;">
+  <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="130" style="margin: 0; padding: 0;">
+  <h1 style="margin: -15px 0 0 0; padding: 0; border-bottom: none; font-size: 2rem;">
     <span style="color:#A3D94F;">❮</span> HadesDev <span style="color:#A3D94F;">❯</span>
   </h1>
-
-  <p style="margin: 5px 0 15px 0; padding: 0; color: #8B949E;">
+  <p style="margin: 5px 0 0 0; padding: 0; color: #8B949E;">
     by OsmaKev
   </p>
 </div>
