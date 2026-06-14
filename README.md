@@ -1,18 +1,8 @@
 <div align="center">
-  <!-- El contenedor principal centra todo el bloque -->
-  <div style="text-align: left; max-width: max-content;">
-        <span style="vertical-align: middle; display: inline-block; margin-right: 15px;">
-      <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="95" height="95" style="border: none;">
-    </span>
-    <span style="vertical-align: middle; display: inline-block;">
-      <h1 style="border-bottom: none; margin: 0; padding: 0; font-size: 2.3rem; line-height: 1.1; color: #FFFFFF;">
-        <font color="#A3D94F">❮</font>HadesDev<font color="#A3D94F">❯</font>
-      </h1>
-      <p style="margin: 4px 0 0 0; padding: 0; color: #8B949E; font-size: 1.05rem;">
-        by OsmaKev
-      </p>
-    </span>
-  </div>
+
+<img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="95" valign="middle"> **&lt;HadesDev&gt;**  
+_by OsmaKev_
+
 </div>
 
 ### 🐈‍⬛ The Story & Vision Behind the Brand
