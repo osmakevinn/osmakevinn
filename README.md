@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="130" style="margin: 0; padding: 0;">
-  <h1 style="margin: -15px 0 0 0; padding: 0; border-bottom: none; font-size: 2rem;">
-    <span style="color:#A3D94F;">❮</span> HadesDev <span style="color:#A3D94F;">❯</span>
-  </h1>
-  <p style="margin: 5px 0 0 0; padding: 0; color: #8B949E;">
-    by OsmaKev
-  </p>
+  <div style="max-width: 400px; text-align: left;">
+    <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="100" align="left" style="margin-right: 20px;">
+    <h1 style="margin: 0; padding: 0; border-bottom: none; font-size: 2.2rem; line-height: 1.1;">
+      <font color="#A3D94F">❮</font>HadesDev<font color="#A3D94F">❯</font>
+    </h1>
+    <p style="margin: 5px 0 0 0; padding: 0; color: #8B949E; font-size: 1.1rem;">
+      by OsmaKev
+    </p> 
+    <br clear="left">
+  </div>
 </div>
----
 
 ### 🐈‍⬛ The Story & Vision Behind the Brand
 **HadesDev** is more than just a brand name to me; it is a lifetime tribute to my cat, **Hades**. Although he is no longer in this world, he was my quiet companion during my first steps into technology. Today, his memory is the driving force behind my work, and through code, his legacy will live on.
