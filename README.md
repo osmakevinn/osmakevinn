@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="95" valign="middle"> **&lt;HadesDev&gt;**  
-_by OsmaKev_
 
 </div>
 
