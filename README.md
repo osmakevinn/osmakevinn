@@ -1,8 +1,21 @@
 <p align="center">
-  <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" alt="HadesDev Logo" width="120">
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <!-- Columna para el Logo de Hades -->
+      <td valign="middle">
+        <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" alt="HadesDev Logo" width="100">
+      </td>
+      <!-- Espacio de separación entre el logo y el texto -->
+      <td width="20"></td>
+      <!-- Columna para los textos de la marca -->
+      <td valign="middle" align="left">
+        <h1 style="border-bottom: none; margin: 0; padding: 0;"><code>&lt;HadesDev&gt;</code></h1>
+        <p style="margin: 0; padding: 0;"><em>by OsmaKev</em></p>
+      </td>
+    </tr>
+  </table>
 </p>
-<h1 align="center"><code>&lt;HadesDev&gt;</code></h1>
-<p align="center"><em>by OsmaKev</em></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-%23A3D94F?style=flat-square" alt="Status">
 </p>
