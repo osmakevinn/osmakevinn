@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="90"/>
+<img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" width="70">
 
-# <span style="color:#A3D94F;">❮</span> HadesDev <span style="color:#A3D94F;">❯</span>
+<h1>
+  <span style="color:#A3D94F;">❮</span>
+  HadesDev
+  <span style="color:#A3D94F;">❯</span>
+</h1>
 
-### by OsmaKev
+<h3>by OsmaKev</h3>
 
-<img src="https://img.shields.io/badge/Status-Active-A3D94F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Active-A3D94F?style=flat-square">
 
 </div>
 ---
