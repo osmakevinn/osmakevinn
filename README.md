@@ -1,3 +1,17 @@
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Columna del Logo -->
+    <td valign="top" width="100">
+      <img src="https://i.ibb.co/rKnLxSNx/Logo-Hades-Dev.png" alt="HadesDev Logo" width="85" height="85">
+    </td>
+    <!-- Columna del Texto de la Firma -->
+    <td valign="middle">
+      <h1><code>&lt;HadesDev&gt;</code></h1>
+      <p><sub>by OsmaKev</sub></p>
+    </td>
+  </tr>
+</table>
+
 # Hi, I'm Kev! 👋
 
 I'm a software developer in training. I'm really excited about the idea of becoming a **Full Stack Developer** and I have a huge interest in **Game Development**. 
